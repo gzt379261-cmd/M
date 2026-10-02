@@ -1,2 +1,17 @@
-# M
-K
+{
+  "base_url": "http://pallmarketplace.rexypediaa.biz.id:3216",
+  "firebase": {
+    "apiKey": "AIzaSyA8S13_0IXpJPn7OqpXqVsKJwG2-BaFYIU",
+    "appId": "1:937481949973:android:49acc88e67e615bde7cf1c",
+    "messagingSenderId": "937481949973",
+    "projectId": "notifikasi-7fa41",
+    "storageBucket": "notifikasi-7fa41.firebasestorage.app"
+  },
+  "update": {
+    "enabled": true,
+    "version": "2.0.0",
+    "apk_url": "https://www.mediafire.com/file/dly8413vx1ucz7p/app-release.apk/file",
+    "force": false,
+    "changelog": "Versi terbaru aplikasi."
+  }
+}
